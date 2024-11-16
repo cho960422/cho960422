@@ -4,8 +4,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cho960422)]
 
 # Portfolio
-### [Notion (Click me)](https%3A%2F%2Fverdant-wolf-6b3.notion.site%2FAOS-d0a7a2f913da4a3fa52e5ff4b0ce2c1a) 
-### [Tistory (Click me)](https%253A%252F%252Fcho960422.tistory.com%252F)
+### [Notion (Click me)](https://verdant-wolf-6b3.notion.site/AOS-d0a7a2f913da4a3fa52e5ff4b0ce2c1a) 
+### [Tistory (Click me)](https://cho960422.tistory.com/)
 
 # Language & Framework
 ![Static Badge](https://img.shields.io/badge/Kotlin-7F52FF)
